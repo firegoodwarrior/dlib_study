@@ -25,3 +25,5 @@ pycharm을 통해 설치할 경우 dlib 설치 시 오류가 발생했다.
 그래서 cmd 창에서 pip install CMake 명령어를 통해 CMake를 설치했고
 
 이후 cmd에서 dlib 설치에 성공했다.
+
+오류 발생시 python -m pip install [lib name] 으로 
